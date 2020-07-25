@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-25T06:46:54.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="cYJe8yyYh_-nCcNXcfXk" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-25T06:59:42.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="XJrMEKWTl5VVJs8A37Le" version="13.5.3" type="github">
   <diagram id="R_P41mEICFCsG3THIY6Q" name="Page-1">
     <mxGraphModel dx="994" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,8 +194,8 @@
         <mxCell id="upEFrfNN-lWiFYi0aEHt-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.quantum_ledger_database;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="837" y="354" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="upEFrfNN-lWiFYi0aEHt-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Kafka&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="842" y="421.55" width="54" height="20" as="geometry" />
+        <mxCell id="upEFrfNN-lWiFYi0aEHt-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Kafka Streams&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="831" y="419.55" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="upEFrfNN-lWiFYi0aEHt-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="846" y="206" width="50" height="127" as="geometry" />
@@ -215,7 +215,7 @@
         <mxCell id="upEFrfNN-lWiFYi0aEHt-11" value="" style="html=1;fontColor=#FF3333;fontStyle=1;align=left;verticalAlign=top;spacing=0;labelBorderColor=none;fillColor=none;dashed=1;strokeWidth=2;spacingLeft=4;spacingTop=-3;rounded=0;sketch=0;strokeColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="833" y="193" width="76" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="upEFrfNN-lWiFYi0aEHt-12" value="&lt;b&gt;Data Store&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="upEFrfNN-lWiFYi0aEHt-12" value="&lt;b&gt;Data Layer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="815" y="61" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="upEFrfNN-lWiFYi0aEHt-13" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;rounded=0;sketch=0;strokeColor=#3399FF;fillColor=#21C0A5;fontColor=#5C5C5C;" vertex="1" parent="1">
