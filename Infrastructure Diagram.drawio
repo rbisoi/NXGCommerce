@@ -1,20 +1,20 @@
-<mxfile modified="2020-07-25T09:50:53.083Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="ST96ukqmiFUY8h8aURAg" version="13.5.3" type="github">
+<mxfile modified="2020-07-25T09:52:40.706Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="EmDFsao93VnlRx5csdSq" version="13.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1384" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-155" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-550" width="125.5" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-154" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="170" y="-600" width="720" height="460" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-144" value="Amazon CloudWatch" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelBackgroundColor=#ffffff;spacingTop=5;" parent="1" vertex="1">
           <mxGeometry x="775" y="-288" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="UEzPUAAOIrF-is8g5C7q-153" value="Amazon SNS&lt;br&gt;Topic&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.topic;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="775" y="-527" width="78" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="UEzPUAAOIrF-is8g5C7q-155" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="-550" width="125.5" height="380" as="geometry" />
+        <mxCell id="UEzPUAAOIrF-is8g5C7q-145" value="Amazon SNS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F34482;gradientDirection=north;fillColor=#BC1356;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sns;labelBackgroundColor=#ffffff;spacingTop=5;" parent="1" vertex="1">
+          <mxGeometry x="775" y="-532" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="UEzPUAAOIrF-is8g5C7q-158" value="Amazon S3&lt;br&gt;Content Storage&lt;br&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.bucket_with_objects;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="778" y="-408.40999999999997" width="75" height="78" as="geometry" />
@@ -116,12 +116,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0vO40-V9J5dVaL3kUsYG-68" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1" source="0vO40-V9J5dVaL3kUsYG-5" target="0vO40-V9J5dVaL3kUsYG-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="-360" as="sourcePoint" />
-            <mxPoint x="610" y="-410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0vO40-V9J5dVaL3kUsYG-69" value="" style="endArrow=classic;html=1;entryX=-0.031;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0vO40-V9J5dVaL3kUsYG-5" target="UEzPUAAOIrF-is8g5C7q-155">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="-360" as="sourcePoint" />
             <mxPoint x="610" y="-410" as="targetPoint" />
