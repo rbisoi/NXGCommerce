@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T05:13:31.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BD6ki7K9bem2B1VATUb3" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T05:20:10.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="V5zj3_WjTxz_j8BhV2X1" version="13.10.0" type="github">
   <diagram id="DLaAfY6MLrWqdHofX1Y0" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,6 +21,20 @@
         </mxCell>
         <mxCell id="zKwDwM1E7vwW45lTwtcs-6" value="&lt;b&gt;Cloud Database&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="503" y="320" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zKwDwM1E7vwW45lTwtcs-7" value="UI + Business Logic" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontSize=12;whiteSpace=wrap;spacingBottom=2;fontStyle=1;fontColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zKwDwM1E7vwW45lTwtcs-8" value="" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.desktop_and_mobile;part=1;" vertex="1" parent="zKwDwM1E7vwW45lTwtcs-7">
+          <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
+            <mxPoint x="-25" y="18.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKwDwM1E7vwW45lTwtcs-9" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Serverless Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;labelBorderColor=#3333FF;" vertex="1" parent="1">
+          <mxGeometry x="160" y="10" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zKwDwM1E7vwW45lTwtcs-10" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Serverless Application&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="284" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
